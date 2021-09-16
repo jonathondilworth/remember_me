@@ -1,7 +1,7 @@
 # remember_me
 
 > Remember Me! <br />
-> — Bendor, Futurama, see this [link](https://youtu.be/9k3AU9smLvY?t=7).
+> — Bender, Futurama, see this [link](https://youtu.be/9k3AU9smLvY?t=7).
 
 ## Useful Information
 
